@@ -1,0 +1,1 @@
+esse arquivo solicita a pasta node módulos que foi excluída para conseguir zipar a pasta
